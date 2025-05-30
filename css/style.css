@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.box {
+    background: url(../resources/Picsart_23-05-31_15-33-13-612.jpg);
+    height: 100vx;
+    background-repeat: no-repeat;
+}
